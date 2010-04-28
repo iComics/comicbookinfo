@@ -1,0 +1,5 @@
+#summary Other comic book metadata implementations
+
+  * [http://www.cbml.org/ Comic Book Markup Language] (Though this is more appropriate for marking up full comics, rather than just information about the comics)
+  * [http://www.rasalghul.co.uk/cbr/#Metadata comicbook.xml]
+  * ComicInfo.xml (from Comic Rack)
