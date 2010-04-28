@@ -1,0 +1,5 @@
+#summary List of applications that support ComicBookInfo
+
+
+== Mac OS X ==
+  * [http://www.comicbooklover.com/ ComicBookLover]
