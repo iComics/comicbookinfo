@@ -1,5 +1,5 @@
 # comicbookinfo
-Mirrored from [code.google.com/p/comicbookinfo](code.google.com/p/comicbookinfo) since Google Code appears to be shutting down.
+Mirrored from [code.google.com/p/comicbookinfo](https://code.google.com/archive/p/comicbookinfo/) since Google Code appears to be shutting down.
 The documentation of this article will be properly transferred to GitHub over time.
 
 # Overview
